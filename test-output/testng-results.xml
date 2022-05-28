@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[connect to the site]]>
+    </line>
+    <line>
+      <![CDATA[CDwindow-28C861154F63C9EDC35242B54766FC0B]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked]]>
+    </line>
+    <line>
+      <![CDATA[TestLeaf - Interact with Windows]]>
+    </line>
+    <line>
+      <![CDATA[TestLeaf - Interact with HyperLinks]]>
+    </line>
+    <line>
+      <![CDATA[TestLeaf - Interact with Buttons]]>
+    </line>
+    <line>
+      <![CDATA[TestLeaf - Selenium Playground]]>
+    </line>
+    <line>
+      <![CDATA[Close the site]]>
+    </line>
+    <line>
+      <![CDATA[75506ef5-9441-4b94-8ebf-96807f6df3d5]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked]]>
+    </line>
+    <line>
+      <![CDATA[TestLeaf - Interact with Windows]]>
+    </line>
+    <line>
+      <![CDATA[TestLeaf - Selenium Playground]]>
+    </line>
+    <line>
+      <![CDATA[TestLeaf - Interact with Buttons]]>
+    </line>
+    <line>
+      <![CDATA[TestLeaf - Interact with HyperLinks]]>
+    </line>
+    <line>
+      <![CDATA[Close the site]]>
+    </line>
+    <line>
+      <![CDATA[Disconnected to the site]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-23T06:45:29 IST" name="Suite" finished-at="2022-05-23T06:45:38 IST" duration-ms="8960">
+    <groups>
+    </groups>
+    <test started-at="2022-05-23T06:45:29 IST" name="Test1" finished-at="2022-05-23T06:45:32 IST" duration-ms="3433">
+      <class name="TestNg_Practice.GettingwindowHandles">
+        <test-method is-config="true" signature="openurl(java.lang.String)[pri:0, instance:TestNg_Practice.GettingwindowHandles@3bf9ce3e]" started-at="2022-05-23T06:45:29 IST" name="openurl" finished-at="2022-05-23T06:45:31 IST" duration-ms="2426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="Hanwind()[pri:0, instance:TestNg_Practice.GettingwindowHandles@3bf9ce3e]" started-at="2022-05-23T06:45:31 IST" name="Hanwind" finished-at="2022-05-23T06:45:32 IST" duration-ms="752" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CDwindow-28C861154F63C9EDC35242B54766FC0B]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked]]>
+            </line>
+            <line>
+              <![CDATA[TestLeaf - Interact with Windows]]>
+            </line>
+            <line>
+              <![CDATA[TestLeaf - Interact with HyperLinks]]>
+            </line>
+            <line>
+              <![CDATA[TestLeaf - Interact with Buttons]]>
+            </line>
+            <line>
+              <![CDATA[TestLeaf - Selenium Playground]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Hanwind -->
+        <test-method is-config="true" signature="closeurl()[pri:0, instance:TestNg_Practice.GettingwindowHandles@3bf9ce3e]" started-at="2022-05-23T06:45:32 IST" name="closeurl" finished-at="2022-05-23T06:45:32 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the site]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeurl -->
+      </class> <!-- TestNg_Practice.GettingwindowHandles -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-05-23T06:45:32 IST" name="Test2" finished-at="2022-05-23T06:45:38 IST" duration-ms="5473">
+      <class name="TestNg_Practice.GettingwindowHandles">
+        <test-method is-config="true" signature="connect()[pri:0, instance:TestNg_Practice.GettingwindowHandles@2ed2d9cb]" started-at="2022-05-23T06:45:29 IST" name="connect" finished-at="2022-05-23T06:45:29 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[connect to the site]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- connect -->
+        <test-method is-config="true" signature="openurl(java.lang.String)[pri:0, instance:TestNg_Practice.GettingwindowHandles@2ed2d9cb]" started-at="2022-05-23T06:45:32 IST" name="openurl" finished-at="2022-05-23T06:45:36 IST" duration-ms="3509" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="Hanwind()[pri:0, instance:TestNg_Practice.GettingwindowHandles@2ed2d9cb]" started-at="2022-05-23T06:45:36 IST" name="Hanwind" finished-at="2022-05-23T06:45:37 IST" duration-ms="1183" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[75506ef5-9441-4b94-8ebf-96807f6df3d5]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked]]>
+            </line>
+            <line>
+              <![CDATA[TestLeaf - Interact with Windows]]>
+            </line>
+            <line>
+              <![CDATA[TestLeaf - Selenium Playground]]>
+            </line>
+            <line>
+              <![CDATA[TestLeaf - Interact with Buttons]]>
+            </line>
+            <line>
+              <![CDATA[TestLeaf - Interact with HyperLinks]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Hanwind -->
+        <test-method is-config="true" signature="closeurl()[pri:0, instance:TestNg_Practice.GettingwindowHandles@2ed2d9cb]" started-at="2022-05-23T06:45:37 IST" name="closeurl" finished-at="2022-05-23T06:45:38 IST" duration-ms="776" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the site]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeurl -->
+        <test-method is-config="true" signature="disconnect()[pri:0, instance:TestNg_Practice.GettingwindowHandles@2ed2d9cb]" started-at="2022-05-23T06:45:38 IST" name="disconnect" finished-at="2022-05-23T06:45:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Disconnected to the site]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- disconnect -->
+      </class> <!-- TestNg_Practice.GettingwindowHandles -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
